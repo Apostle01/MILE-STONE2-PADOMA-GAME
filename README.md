@@ -1,5 +1,5 @@
 # Mile-Stone2
-This repository(Mile-Stone2-Padoma-Game) was created as a result of the mistake I made in the initial repository (Padora-Game). Here is the link to the other repository of which a lot of commits were made. <a href="https://github.com/Apostle01/Padoma-Game.git>visit for full details</a>
+This repository(Mile-Stone2-Padoma-Game) was created as a result of the mistake I made in the initial repository (Padora-Game). Here is the link to the other repository of which a lot of commits were made. <a href="https://github.com/Apostle01/Padoma-Game.git">visit for full details</a>
 
 https://apostle01.github.io/Mile-Stone2-Padoma-Game/
 
